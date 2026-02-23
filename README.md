@@ -6,7 +6,7 @@ Solidity test generator is a tool that generates Truffle compatible JavaScript t
 
 * Mythril Classic with test input generation module:
 
-https://github.com/pauliax/mythril-classic/
+https://github.com/rishabh0x00/mythril-classic/
 
 * Solidity compilator (*solc*), recommended version: 0.4.25
 
